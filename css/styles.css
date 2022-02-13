@@ -1,0 +1,25 @@
+div.main{
+  display: flex;
+  flex-direction: row;
+}
+
+div.left_div{
+  background-color: red;
+  min-width: 290px;
+  max-width: 20%;
+  min-height: 973px;
+  max-width: none;
+
+}
+div.right_div{
+  background-color: green;
+  min-width: 1150px;
+  max-width: 80%;
+  min-height: 973px;
+  max-width: none;
+}
+
+div.left_div_logo{
+  min-width: 320px;
+  min-height: 320px;
+}
